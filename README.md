@@ -10,9 +10,13 @@ The dataset includes tables such as:
 
 - `orders` (order_id, pizza_id, quantity, price, order_date, customer_id, etc.)
 - `pizzas` (pizza_id, name, size, category, unit_price, etc.)
-## Sources ##
--pizza_sales.zip
--Questions.txt
+-## 📂 Data Sources
+
+1. [Order Details CSV](https://bit.ly/sql-pizza-orders)  
+2. [Pizza Types CSV](https://bit.ly/sql-pizza-types)  
+3. [Pizza Categories CSV](https://bit.ly/sql-pizza-categories)  
+4. [Pizza Sales Notes](https://bit.ly/sql-pizza-report)
+-
 
 ---
 
