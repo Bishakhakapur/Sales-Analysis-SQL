@@ -54,18 +54,14 @@ The project includes a set of SQL scripts implementing key queries:
 4. **Revenue Contribution by Pizza Category**
 5. **Top Revenue Pizza Each Month**
 6. **Revenue Share by Pizza Size**
-7. *(Add more queries if applicable…)*
 
 ---
 
 ## 📋 Tools & Tech
 
-- **SQL dialect**: MySQL / PostgreSQL / SQL Server *(specify yours)*  
-- **IDE**: MySQL Workbench / pgAdmin / SQL Server Management Studio  
+- **SQL dialect**: MySQL   
+- **IDE**: MySQL Workbench 
 - **Scripts included**:  
-  - `create_tables.sql` – database schema  
-  - `load_data.sql` – sample data inserts  
-  - `analysis_queries.sql` – business insights  
 
 ---
 
